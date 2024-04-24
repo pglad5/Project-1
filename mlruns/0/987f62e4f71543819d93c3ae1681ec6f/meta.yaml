@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/987f62e4f71543819d93c3ae1681ec6f/artifacts
+end_time: 1713923001058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 987f62e4f71543819d93c3ae1681ec6f
+run_name: thoughtful-snake-407
+run_uuid: 987f62e4f71543819d93c3ae1681ec6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713922975075
+status: 3
+tags: []
+user_id: pglad

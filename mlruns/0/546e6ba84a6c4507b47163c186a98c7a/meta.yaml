@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/546e6ba84a6c4507b47163c186a98c7a/artifacts
+end_time: 1713922599853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 546e6ba84a6c4507b47163c186a98c7a
+run_name: painted-bear-892
+run_uuid: 546e6ba84a6c4507b47163c186a98c7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713922586353
+status: 3
+tags: []
+user_id: pglad

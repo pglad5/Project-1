@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ea4396b338ec44688fd3dab00b24e985/artifacts
+end_time: 1713998775556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea4396b338ec44688fd3dab00b24e985
+run_name: shivering-robin-891
+run_uuid: ea4396b338ec44688fd3dab00b24e985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713998762973
+status: 3
+tags: []
+user_id: pglad

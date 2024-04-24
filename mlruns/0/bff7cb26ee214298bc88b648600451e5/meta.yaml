@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bff7cb26ee214298bc88b648600451e5/artifacts
+end_time: 1713995341054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bff7cb26ee214298bc88b648600451e5
+run_name: bustling-toad-2
+run_uuid: bff7cb26ee214298bc88b648600451e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995291601
+status: 4
+tags: []
+user_id: pglad

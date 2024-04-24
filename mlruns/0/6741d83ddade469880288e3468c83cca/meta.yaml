@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6741d83ddade469880288e3468c83cca/artifacts
+end_time: 1713992781660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6741d83ddade469880288e3468c83cca
+run_name: glamorous-gnu-317
+run_uuid: 6741d83ddade469880288e3468c83cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713992748188
+status: 3
+tags: []
+user_id: pglad

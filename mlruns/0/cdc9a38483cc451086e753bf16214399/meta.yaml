@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cdc9a38483cc451086e753bf16214399/artifacts
+end_time: 1713993355579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdc9a38483cc451086e753bf16214399
+run_name: ambitious-hare-458
+run_uuid: cdc9a38483cc451086e753bf16214399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713993294216
+status: 4
+tags: []
+user_id: pglad

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6fe215f50ba14731afba57c797e2c51c/artifacts
+end_time: 1713922888115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fe215f50ba14731afba57c797e2c51c
+run_name: charming-hare-879
+run_uuid: 6fe215f50ba14731afba57c797e2c51c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713922874758
+status: 3
+tags: []
+user_id: pglad

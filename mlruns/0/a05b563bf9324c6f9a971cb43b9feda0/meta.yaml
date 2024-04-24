@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a05b563bf9324c6f9a971cb43b9feda0/artifacts
+end_time: 1713992954138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a05b563bf9324c6f9a971cb43b9feda0
+run_name: smiling-crow-908
+run_uuid: a05b563bf9324c6f9a971cb43b9feda0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713992869099
+status: 4
+tags: []
+user_id: pglad

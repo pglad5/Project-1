@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5f67c8d79ffd4316b98467b043ceb490/artifacts
+end_time: 1713995254892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f67c8d79ffd4316b98467b043ceb490
+run_name: auspicious-crane-846
+run_uuid: 5f67c8d79ffd4316b98467b043ceb490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995252706
+status: 4
+tags: []
+user_id: pglad

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5a2027739ae7424e8f45acf3f8e89f4d/artifacts
+end_time: 1713922633923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a2027739ae7424e8f45acf3f8e89f4d
+run_name: nebulous-croc-469
+run_uuid: 5a2027739ae7424e8f45acf3f8e89f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713922620993
+status: 3
+tags: []
+user_id: pglad
