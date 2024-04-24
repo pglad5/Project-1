@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f7df5fa19f884f49a9b1d1154b637e20/artifacts
+end_time: 1713881741619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7df5fa19f884f49a9b1d1154b637e20
+run_name: mercurial-sow-989
+run_uuid: f7df5fa19f884f49a9b1d1154b637e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713881723431
+status: 4
+tags: []
+user_id: pglad

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b0f548b55737414e87cc5afc973379db/artifacts
+end_time: 1713881213598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0f548b55737414e87cc5afc973379db
+run_name: fortunate-grouse-968
+run_uuid: b0f548b55737414e87cc5afc973379db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713881205179
+status: 4
+tags: []
+user_id: pglad

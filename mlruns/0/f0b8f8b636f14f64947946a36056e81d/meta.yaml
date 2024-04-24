@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f0b8f8b636f14f64947946a36056e81d/artifacts
+end_time: 1713919023689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0b8f8b636f14f64947946a36056e81d
+run_name: learned-whale-384
+run_uuid: f0b8f8b636f14f64947946a36056e81d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713918907826
+status: 3
+tags: []
+user_id: pglad

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2222e2cd5d244b0d96d4518a0f703748/artifacts
+end_time: 1713880494360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2222e2cd5d244b0d96d4518a0f703748
+run_name: nervous-elk-334
+run_uuid: 2222e2cd5d244b0d96d4518a0f703748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713880487630
+status: 4
+tags: []
+user_id: pglad
