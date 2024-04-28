@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/221cd50b4c334a74ba48a72d273b4998/artifacts
+end_time: 1714347210052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 221cd50b4c334a74ba48a72d273b4998
+run_name: wistful-hen-694
+run_uuid: 221cd50b4c334a74ba48a72d273b4998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714347154465
+status: 4
+tags: []
+user_id: pglad

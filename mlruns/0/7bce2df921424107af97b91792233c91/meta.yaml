@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7bce2df921424107af97b91792233c91/artifacts
+end_time: 1714346965474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bce2df921424107af97b91792233c91
+run_name: clumsy-crow-205
+run_uuid: 7bce2df921424107af97b91792233c91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714346817392
+status: 3
+tags: []
+user_id: pglad

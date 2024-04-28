@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eb483923c71844fd99681324f2941d57/artifacts
+end_time: 1714347372000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb483923c71844fd99681324f2941d57
+run_name: shivering-ox-640
+run_uuid: eb483923c71844fd99681324f2941d57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714347358169
+status: 3
+tags: []
+user_id: pglad

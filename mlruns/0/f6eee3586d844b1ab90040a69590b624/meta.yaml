@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f6eee3586d844b1ab90040a69590b624/artifacts
+end_time: 1714347476995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6eee3586d844b1ab90040a69590b624
+run_name: enchanting-calf-277
+run_uuid: f6eee3586d844b1ab90040a69590b624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714347460119
+status: 3
+tags: []
+user_id: pglad

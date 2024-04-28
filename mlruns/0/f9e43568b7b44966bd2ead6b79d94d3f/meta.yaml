@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f9e43568b7b44966bd2ead6b79d94d3f/artifacts
+end_time: 1714345856417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9e43568b7b44966bd2ead6b79d94d3f
+run_name: upset-mink-464
+run_uuid: f9e43568b7b44966bd2ead6b79d94d3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714345837544
+status: 3
+tags: []
+user_id: pglad

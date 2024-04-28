@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/41ee5005eead47cd961ebe47c38f5206/artifacts
+end_time: 1714347177958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41ee5005eead47cd961ebe47c38f5206
+run_name: persistent-seal-188
+run_uuid: 41ee5005eead47cd961ebe47c38f5206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714347163470
+status: 3
+tags: []
+user_id: pglad

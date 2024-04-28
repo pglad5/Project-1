@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c565c85645654a1dacc5b6cd1340bd16/artifacts
+end_time: 1714346035381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c565c85645654a1dacc5b6cd1340bd16
+run_name: puzzled-lynx-47
+run_uuid: c565c85645654a1dacc5b6cd1340bd16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714346021257
+status: 3
+tags: []
+user_id: pglad

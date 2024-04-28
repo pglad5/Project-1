@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6faef749ae264e82bc3b25971847238e/artifacts
+end_time: 1714347746373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6faef749ae264e82bc3b25971847238e
+run_name: treasured-hen-323
+run_uuid: 6faef749ae264e82bc3b25971847238e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714347733239
+status: 3
+tags: []
+user_id: pglad

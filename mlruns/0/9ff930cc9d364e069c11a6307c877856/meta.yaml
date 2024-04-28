@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9ff930cc9d364e069c11a6307c877856/artifacts
+end_time: 1714344508405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ff930cc9d364e069c11a6307c877856
+run_name: clean-turtle-428
+run_uuid: 9ff930cc9d364e069c11a6307c877856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714344446221
+status: 4
+tags: []
+user_id: pglad

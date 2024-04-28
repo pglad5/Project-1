@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pglad/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f897346d590f408a9264d06572d05983/artifacts
+end_time: 1714347069262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f897346d590f408a9264d06572d05983
+run_name: whimsical-snake-833
+run_uuid: f897346d590f408a9264d06572d05983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714347057885
+status: 3
+tags: []
+user_id: pglad
