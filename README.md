@@ -1,4 +1,4 @@
-My github link: https://github.com/pglad5/Project-Build-an-ML-Pipeline-Starter
+My github link: https://github.com/pglad5/Project-1
 
 My wandb link: https://wandb.ai/pglad/nyc_airbnb?nw=nwuserpglad5
 
